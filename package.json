@@ -1,6 +1,6 @@
 {
-  "name": "jaskirankaur-meanstack",
-  "version": "0.0.1",
+  "name": "jaskiran-meanstack",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node server.js"
@@ -31,10 +31,6 @@
     "passport-local-mongoose": "^5.0.1",
     "popper.js": "^1.14.6"
   },
-  "description": "MEAN Stack CRUD Demo",
-  "main": "server.js",
-  "author": "Jaskiran Kaur",
-  "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
     "@types/connect-flash": "0.0.34",
@@ -51,12 +47,15 @@
     "@types/passport-local": "^1.0.33",
     "@types/passport-local-mongoose": "^4.0.12"
   },
+  
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaskiranKaur12/Meanstack-assignment2.git"
+    "url": "git+https://github.com/JaskiranKaur12/Assignment2-ExpressPortfolio-Mean.git"
   },
+  "author": "Jaskiran Kaur",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JaskiranKaur12/Meanstack-assignment2/issues"
+    "url": "https://github.com/JaskiranKaur12/Assignment2-ExpressPortfolio-Mean/issues"
   },
-  "homepage": "https://github.com/JaskiranKaur12/Meanstack-assignment2#readme"
+  "homepage": "https://github.com/JaskiranKaur12/Assignment2-ExpressPortfolio-Mean#readme"
 }
