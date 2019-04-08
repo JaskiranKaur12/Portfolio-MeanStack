@@ -33,7 +33,7 @@
   },
   "description": "MEAN Stack CRUD Demo",
   "main": "server.js",
-  "author": "Sidharth Choudhary",
+  "author": "Jaskiran Kaur",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
