@@ -50,12 +50,12 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaskiranKaur12/Assignment2-ExpressPortfolio-Mean.git"
+    "url": "git+https://github.com/JaskiranKaur12/JaskiranAssignment2.git"
   },
   "author": "Jaskiran Kaur",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JaskiranKaur12/Assignment2-ExpressPortfolio-Mean/issues"
+    "url": "https://github.com/JaskiranKaur12/JaskiranAssignment2/issues"
   },
-  "homepage": "https://github.com/JaskiranKaur12/Assignment2-ExpressPortfolio-Mean#readme"
+  "homepage": "https://github.com/JaskiranKaur12/JaskiranAssignment2#readme"
 }
