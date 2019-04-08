@@ -1,5 +1,5 @@
 {
-  "name": "express-portfolio-sidharthchoudhary-meanstack",
+  "name": "jaskirankaur-meanstack",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gr8sid/Express-Portfolio-MeanStack"
+    "url": "git+https://github.com/gr8sid/Express-Portfolio-MeanStack.git"
   },
   "bugs": {
     "url": "https://github.com/gr8sid/Express-Portfolio-MeanStack/issues"
