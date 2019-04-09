@@ -50,12 +50,12 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JaskiranKaur12/JaskiranAssignment2.git"
+    "url": "git+https://github.com/JaskiranKaur12/Portfolio-MeanStack.git"
   },
   "author": "Jaskiran Kaur",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JaskiranKaur12/JaskiranAssignment2/issues"
+    "url": "https://github.com/JaskiranKaur12/Portfolio-MeanStack/issues"
   },
-  "homepage": "https://github.com/JaskiranKaur12/JaskiranAssignment2#readme"
+  "homepage": "https://github.com/JaskiranKaur12/Portfolio-MeanStack#readme"
 }
